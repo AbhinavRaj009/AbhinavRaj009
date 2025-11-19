@@ -74,12 +74,13 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhinavRaj009&show_icons=true&theme=dracula&bg_color=000000&title_color=00f0ff&icon_color=f900ff&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AbhinavRaj009&theme=neon-dark&date_format=j%20M%5B%20Y%5D" />
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app?user=AbhinavRaj009&theme=neon-dark&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRaj009&layout=compact&theme=dracula&bg_color=000000&title_color=f900ff&text_color=ffffff" />
 </p>
+
 
 
 
