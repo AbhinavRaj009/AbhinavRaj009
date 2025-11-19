@@ -36,7 +36,7 @@ Tools
 Git • VS Code • Jupyter Notebook • Docker
 
 📊 GitHub Activity & Widgets
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=tokyonight" width="48%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" width="40%"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhinavRaj009&show_icons=true&theme=tokyonight" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=tokyonight" width="48%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" width="40%"> </p>
 
 Replace YOURUSERNAME with your GitHub username.
 
