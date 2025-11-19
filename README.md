@@ -196,9 +196,9 @@ Pranveer Singh Institute of Technology, Kanpur
   <a href="https://www.linkedin.com/in/abhinav-raj-6535a224b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://www.hackerrank.com/profile/2101641530006_ML" target="_blank">
+  <!-- <a href="https://www.hackerrank.com/profile/2101641530006_ML" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=000">
-  </a>
+  </a> -->
   <a href="mailto:abhinavraj528@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
