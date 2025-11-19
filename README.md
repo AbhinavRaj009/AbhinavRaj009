@@ -46,23 +46,54 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`Java` • `Python` • `C`
+### **Languages**
+<p>
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Java &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> C
+</p>
 
-**Frontend**  
-`React.js` • `HTML` • `CSS` • `JavaScript` • `TypeScript`
+### **Frontend**
+<p>
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React.js &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> TypeScript
+</p>
 
-**Backend**  
-`Node.js` • `Express.js` • `FastAPI` • `REST APIs`
+### **Backend**
+<p>
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> Express.js &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> FastAPI &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original-wordmark.svg" /> REST APIs
+</p>
 
-**Databases**  
-`MongoDB` • `PostgreSQL` • `MYSQL`
+### **Databases**
+<p>
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> MongoDB &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> PostgreSQL &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> MySQL
+</p>
 
-**AI / ML / Data**  
-`TensorFlow` • `OpenCV` • `Mediapipe` • `Pandas` • `NumPy`
+### **AI / ML / Data**
+<p>
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> TensorFlow &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" /> OpenCV &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /> Mediapipe &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> Pandas &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> NumPy
+</p>
 
-**Tools**  
-`Git` • `VS Code` • `Jupyter Notebook` • `Docker`
+### **Tools**
+<p>
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> Git &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> VS Code &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> Jupyter Notebook &nbsp;
+  <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Docker
+</p>
+
 
 <!-- <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlyMDQxZnNzZTJtaHdja3ppems2eDZwcWxsYWhrNDZ6cDFkNm5uNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2AjwKqoBdgRDIN6wI9/giphy.gif" width="250">
