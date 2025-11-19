@@ -38,9 +38,9 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 - 🧠 Strong in **Python, Java, Data Structures, Algorithms**
 - 🧪 I like experimenting with tools, design, and architecture that scale
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN4NDJ3YTRsczg5YnE2bHBtYXpqY3ZoeGs0bXc1OHF1amp2Y29oNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2hyN6GryA5SVmKAXf/giphy.gif" width="400">
-</p>
+</p> -->
 
 ---
 
@@ -64,16 +64,16 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 **Tools**  
 `Git` • `VS Code` • `Jupyter Notebook` • `Docker`
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlyMDQxZnNzZTJtaHdja3ppems2eDZwcWxsYWhrNDZ6cDFkNm5uNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2AjwKqoBdgRDIN6wI9/giphy.gif" width="250">
-</p>
+</p> -->
 
 ---
 
 ## 📊 GitHub Activity (Neon Mode)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dracula&bg_color=000000&title_color=00f0ff&icon_color=f900ff&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhinavRaj009&show_icons=true&theme=dracula&bg_color=000000&title_color=00f0ff&icon_color=f900ff&text_color=ffffff" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=neon-dark&date_format=j%20M%5B%20Y%5D" />
 </p>
 
@@ -85,23 +85,19 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 
 ---
 
-## 🚀 Featured Projects
+<!-- <h2> 🚀 Featured Projects </h2>
 
-### 🔹 Brightness Control using Hand Gestures (AI + Accessibility)
+<b>🔹 Brightness Control using Hand Gestures (AI + Accessibility)
 
 <p align="center">
-  <img src="https://i.imgur.com/yKGn0rH.gif" width="400">
+  <img src="https://miro.medium.com/v2/resize:fit:628/format:webp/0*QFI7RGZKVplzBAJF.gif" width="400">
 </p>
 
-- Gesture-based system to control **brightness and volume** using hand movements  
-- Designed to improve **accessibility for elderly and differently-abled users**  
+* Gesture-based system to control `brightness` and `volume` using hand movements  
+* Designed to improve accessibility for elderly and differently-abled users  
 - **Tech:** `Python`, `OpenCV`, `Mediapipe`  
 
-🔗 **Repo:** <p align="left">
-<a href="https://github.com/AbhinavRaj009/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
-  </a>
-  </p>
+
 
 ---
 
@@ -115,7 +111,7 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 - Uses **SHA-256** to generate stable unique credential identities  
 - **Tech:** `Node.js`, `React`, `Docker`, `Kubernetes`  
 
-🔗 **Repo:** [https://github.com/AbhinavRaj009/Kube-Credential]([#](https://github.com/AbhinavRaj009/Kube-Credential))
+
 
 ---
 
@@ -129,11 +125,10 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 - Uses **FastAPI + PostgreSQL + SQLAlchemy** + **GPT-powered insights**  
 - Deployed with **scheduled executions** for fresh analytics  
 
-🔗 **Repo:** [Add GitHub Link]([#](https://github.com/AbhinavRaj009/FINTECH))
 
----
+--- 
 
-## 🧾 Experience & Education
+## 🧾 Experience
 
 ### 💼 Web Developer Intern — Jamuna Foundation  
 - Built a **project management tool** for community initiatives  
@@ -143,7 +138,9 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 - Wrote **research-oriented AI/ML content** for sustainability use cases  
 - Simplified technical concepts into engaging, easy-to-understand articles
 
-### 🎓 B.Tech — Computer Science & Engineering (AI/ML)  
+### 🎓 Education 
+
+* B.Tech — Computer Science & Engineering (AI/ML)  
 Pranveer Singh Institute of Technology, Kanpur
 
 ---
@@ -155,7 +152,7 @@ Pranveer Singh Institute of Technology, Kanpur
 - 🎓 Certified in **Deep Learning** & **Machine Learning with Python** (Udemy)  
 - 🤖 **Infosys Online Summer Training** in Artificial Intelligence  
 
----
+--- -->
 
 ## 📬 Contact & Socials
 
@@ -163,10 +160,10 @@ Pranveer Singh Institute of Technology, Kanpur
   <a href="https://github.com/AbhinavRaj009/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/abhinav-raj-6535a224b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.hackerrank.com/profile/2101641530006_ML" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=000">
   </a>
   <a href="mailto:abhinavraj528@gmail.com">
@@ -175,10 +172,6 @@ Pranveer Singh Institute of Technology, Kanpur
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/5c6HZ8k.gif" width="600">
-</p>
 
 <h3 align="center">
   <span style="color:#f900ff;">⚡ Let’s Build Something Legendary ⚡</span>
