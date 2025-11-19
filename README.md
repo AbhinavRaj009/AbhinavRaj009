@@ -1,109 +1,146 @@
-<p align="center">🚀 Abhinav Raj</p>
-<p align="center">Computer Science & AI/ML Engineer
+<!-- _________________________ CYBERPUNK DEVELOPER BANNER _________________________ -->
 
-Building Intelligent • Scalable • Impactful Systems</p>
+<p align="center">
+  <img src="https://i.imgur.com/3aXQeQx.gif" width="900" />
+</p>
 
-<p align="center"> <img src="https://img.shields.io/badge/Location-Lucknow-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Role-Software%20%7C%20AI%20Engineer-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20To-Full%20Time%20%7C%20Internships-orange?style=for-the-badge" /> </p> <p align="center"> <a href="#"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a> </p>
-🌟 About Me
+<h1 align="center"><span style="color:#00f0ff;">⚡ Abhinav Raj ⚡</span></h1>
+<h3 align="center">
+  <span style="color:#f900ff;">AI/ML Engineer</span> • 
+  <span style="color:#00f0ff;">Full-Stack Developer</span> • 
+  <span style="color:#39ff14;">System Builder</span>
+</h3>
 
-I’m a CSE Graduate (AI/ML specialization) passionate about building smart, efficient, and user-centric solutions.
-My interests include AI engineering, full-stack development, and automation systems.
-I love transforming ideas into real products using modern technologies.
+<p align="center">
+  <img src="https://i.imgur.com/bc9G9vO.gif" width="600" />
+</p>
 
-🧰 Tech Stack
-Languages
+---
 
-Java • Python • C
+<!-- _________________________ NEON BADGES _________________________ -->
 
-Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Lucknow-39ff14?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-AI%20%7C%20Software%20Engineer-f900ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_To-Opportunities-00f0ff?style=for-the-badge" />
+</p>
 
-React.js • HTML • CSS • JavaScript • TypeScript
+---
 
-Backend
+<!-- _________________________ ABOUT ME _________________________ -->
 
-Node.js • Express.js • FastAPI • REST APIs
+## <span style="color:#00f0ff;">🧬 About Me</span>
 
-Databases
+I am a passionate **CSE (AI/ML)** engineer building intelligent systems, automation pipelines, and full-stack applications.  
+I love **cyberpunk design**, **deep learning**, and creating clean, scalable architectures.
 
-MongoDB • PostgreSQL
+<p align="center">
+  <img src="https://i.imgur.com/QXp0v0S.gif" width="400">
+</p>
 
-AI/ML
+---
 
-TensorFlow • OpenCV • Mediapipe • Pandas • NumPy
+<!-- _________________________ TECH STACK _________________________ -->
 
-Tools
+## <span style="color:#f900ff;">🛠️ Tech Stack</span>
 
-Git • VS Code • Jupyter Notebook • Docker
+### **Languages**
+`Java` • `Python` • `C`
 
-📊 GitHub Activity & Widgets
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhinavRaj009&show_icons=true&theme=tokyonight" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=tokyonight" width="48%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" width="40%"> </p>
+### **Frontend**
+`React.js` • `HTML` • `CSS` • `JavaScript` • `TypeScript`  
 
-Replace YOURUSERNAME with your GitHub username.
+### **Backend**
+`Node.js` • `Express.js` • `FastAPI`
 
-🚀 Featured Projects
-🔹 Brightness Control Using Hand Gestures
+### **Databases**
+`MongoDB` • `PostgreSQL`
 
-Tech: OpenCV, Mediapipe, Python
+### **AI/ML**
+`TensorFlow` • `OpenCV` • `Mediapipe`
 
-Built a gesture-based brightness/volume controller using hand distance.
+### **Tools**
+`Git` • `VS Code` • `Jupyter` • `Docker`
 
-Designed for accessibility: elderly & disabled friendly.
+<p align="center">
+  <img src="https://i.imgur.com/fq6YFfj.gif" width="250">
+</p>
 
-🔗 Add GitHub Link Here
+---
 
-🔹 Kube-Credential
+<!-- _________________________ NEON GITHUB STATS _________________________ -->
 
-Tech: Node.js, React, Docker, Kubernetes
+## <span style="color:#39ff14;">📊 GitHub Activity</span>
 
-Credential issuance & verification microservice.
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dracula&bg_color=000000&title_color=00f0ff&icon_color=f900ff&text_color=ffffff" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=neon-dark&date_format=j%20M%5B%20Y%5D" />
+</p>
 
-Identity generated from SHA-256 hashing.
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dracula&bg_color=000000&title_color=f900ff&text_color=ffffff" />
+</p>
 
-Built for scalability & microservice architecture.
+---
 
-🔗 Add GitHub Link Here
+<!-- _________________________ NEON PROJECTS _________________________ -->
 
-🔹 FINTECH — Automated Market Insights System
+## <span style="color:#f900ff;">🚀 Featured Cyber Projects</span>
 
-Tech: FastAPI, PostgreSQL, SQLAlchemy, Alpha Vantage API, GPT-4
+### 🔹 **Brightness Control — Hand Gesture AI**
+Gestures → Controls Brightness & Volume  
+`OpenCV` • `Mediapipe` • `Python`
 
-Automated market data ingestion & analysis pipeline.
+<img src="https://i.imgur.com/yKGn0rH.gif" width="400">
 
-Generates daily AI-powered insights via GPT-4.
+🔗 [Add GitHub Link](https://github.com/AbhinavRaj009/Brightness-Control)
 
-Fully deployed on Railway.app with scheduled execution.
+---
 
-🔗 Add GitHub Link Here
+### 🔹 **Kube-Credential — Microservice Credential Engine**
+`React` • `Node` • `Docker` • `Kubernetes`
 
-🏆 Achievements
+<img src="https://i.imgur.com/m3a6bqA.gif" width="400">
 
-⭐ 5-Star Coder — HackerRank
+🔗 [Add GitHub Link](https://github.com/AbhinavRaj009/Kube-Credential)
 
-🥈 Graph-E-Thon Finalist — AI healthcare innovation
+---
 
-🎓 Deep Learning (Udemy)
+### 🔹 **FINTECH AI — Automated Market Intelligence**
+Fetch → Process → Analyze → GPT-Driven Insights  
+`FastAPI` • `PostgreSQL` • `AI`
 
-🎓 Machine Learning with Python (Udemy)
+<img src="https://i.imgur.com/H4C1rZx.gif" width="400">
 
-🤖 Infosys Summer Training Program — AI
+🔗 [Add GitHub Link](https://github.com/AbhinavRaj009/FINTECH)
 
-💼 Experience
-Web Developer Intern — Jamuna Foundation
+---
 
-Developed a MERN-based project management tool.
+<!-- _________________________ ACHIEVEMENTS _________________________ -->
 
-Enabled more efficient community initiative tracking.
+## <span style="color:#00f0ff;">🏆 Achievements</span>
 
-AI/ML Intern — Earth5R
+✨ 5-Star Coder — HackerRank  
+✨ Finalist — Graph-E-Thon  
+✨ Deep Learning & ML Certifications  
+✨ Infosys AI Summer Training
 
-Wrote research-based AI/ML articles for sustainability projects.
+---
 
-Simplified complex concepts for awareness & outreach.
+<!-- _________________________ CONTACT _________________________ -->
 
-🎓 Education
+## <span style="color:#39ff14;">📬 Contact Me</span>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:abhinavraj528@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
+</p>
 
-B.Tech — Computer Science & Engineering (AI/ML)
-Pranveer Singh Institute of Technology, Kanpur
+---
 
-📬 Connect With Me
-<p align="left"> <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="mailto:abhinavraj528@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a> </p>
+<p align="center">
+  <img src="https://i.imgur.com/5c6HZ8k.gif" width="600">
+</p>
+
+<h2 align="center" style="color:#f900ff;">⚡ Let’s Build Something Legendary ⚡</h2>
+
