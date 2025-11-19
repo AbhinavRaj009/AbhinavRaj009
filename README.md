@@ -1,7 +1,7 @@
 <!-- _________________________ CYBERPUNK DEVELOPER BANNER _________________________ -->
 
 <p align="center">
-  <img src="https://imgur.com/gallery/github-n3ddTjv#4b33Pdd" width="900" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFyNWdybTMyZjRrOGdld2J3bWYydXhmemJuY2gyMG5zZ2tscjg4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif" width="1000" height="450" />
 </p>
 
 <h1 align="center">
@@ -14,18 +14,18 @@
   <span style="color:#39ff14;">System Builder</span>
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/bc9G9vO.gif" width="600" />
-</p>
+</p> -->
 
 ---
 
 <!-- _________________________ NEON BADGES _________________________ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Lucknow-39ff14?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-AI%20%7C%20Software%20Engineer-f900ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_To-Opportunities-00f0ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Lucknow-F875AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-AI%20%7C%20Software%20Engineer-FDEDED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_To-Opportunities-eec8e0?style=for-the-badge" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 - 🧪 I like experimenting with tools, design, and architecture that scale
 
 <p align="center">
-  <img src="https://i.imgur.com/QXp0v0S.gif" width="400">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN4NDJ3YTRsczg5YnE2bHBtYXpqY3ZoeGs0bXc1OHF1amp2Y29oNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2hyN6GryA5SVmKAXf/giphy.gif" width="400">
 </p>
 
 ---
@@ -56,7 +56,7 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 `Node.js` • `Express.js` • `FastAPI` • `REST APIs`
 
 **Databases**  
-`MongoDB` • `PostgreSQL`
+`MongoDB` • `PostgreSQL` • `MYSQL`
 
 **AI / ML / Data**  
 `TensorFlow` • `OpenCV` • `Mediapipe` • `Pandas` • `NumPy`
@@ -65,7 +65,7 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 `Git` • `VS Code` • `Jupyter Notebook` • `Docker`
 
 <p align="center">
-  <img src="https://i.imgur.com/fq6YFfj.gif" width="250">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlyMDQxZnNzZTJtaHdja3ppems2eDZwcWxsYWhrNDZ6cDFkNm5uNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2AjwKqoBdgRDIN6wI9/giphy.gif" width="250">
 </p>
 
 ---
@@ -97,7 +97,11 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 - Designed to improve **accessibility for elderly and differently-abled users**  
 - **Tech:** `Python`, `OpenCV`, `Mediapipe`  
 
-🔗 **Repo:** ([https://github.com/AbhinavRaj009/Brightness-Control])
+🔗 **Repo:** <p align="left">
+<a href="https://github.com/AbhinavRaj009/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+  </a>
+  </p>
 
 ---
 
@@ -111,7 +115,7 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 - Uses **SHA-256** to generate stable unique credential identities  
 - **Tech:** `Node.js`, `React`, `Docker`, `Kubernetes`  
 
-🔗 **Repo:** [Add GitHub Link]([#](https://github.com/AbhinavRaj009/Kube-Credential))
+🔗 **Repo:** [https://github.com/AbhinavRaj009/Kube-Credential]([#](https://github.com/AbhinavRaj009/Kube-Credential))
 
 ---
 
@@ -156,7 +160,7 @@ Pranveer Singh Institute of Technology, Kanpur
 ## 📬 Contact & Socials
 
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://github.com/AbhinavRaj009/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
   <a href="#" target="_blank">
