@@ -97,7 +97,7 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 - Designed to improve **accessibility for elderly and differently-abled users**  
 - **Tech:** `Python`, `OpenCV`, `Mediapipe`  
 
-🔗 **Repo:** https://github.com/AbhinavRaj009/Brightness-Control
+🔗 **Repo:** ([https://github.com/AbhinavRaj009/Brightness-Control])
 
 ---
 
