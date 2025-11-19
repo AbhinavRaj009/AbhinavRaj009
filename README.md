@@ -1,7 +1,7 @@
 <!-- _________________________ CYBERPUNK DEVELOPER BANNER _________________________ -->
 
 <p align="center">
-  <img src="https://i.imgur.com/3aXQeQx.gif" width="900" />
+  <img src="https://imgur.com/gallery/github-n3ddTjv#4b33Pdd" width="900" />
 </p>
 
 <h1 align="center">
