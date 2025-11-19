@@ -81,7 +81,7 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRaj009&layout=compact&theme=dracula&bg_color=000000&title_color=f900ff&text_color=ffffff" />
 </p>
 
-> 🔁 **Reminder:** Replace `YOURUSERNAME` with your actual GitHub username.
+
 
 ---
 
@@ -97,7 +97,7 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 - Designed to improve **accessibility for elderly and differently-abled users**  
 - **Tech:** `Python`, `OpenCV`, `Mediapipe`  
 
-🔗 **Repo:** [Add GitHub Link](#)
+🔗 **Repo:** [Add GitHub Link]([#](https://github.com/AbhinavRaj009/Brightness-Control))
 
 ---
 
@@ -111,7 +111,7 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 - Uses **SHA-256** to generate stable unique credential identities  
 - **Tech:** `Node.js`, `React`, `Docker`, `Kubernetes`  
 
-🔗 **Repo:** [Add GitHub Link](#)
+🔗 **Repo:** [Add GitHub Link]([#](https://github.com/AbhinavRaj009/Kube-Credential))
 
 ---
 
@@ -125,7 +125,7 @@ I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building i
 - Uses **FastAPI + PostgreSQL + SQLAlchemy** + **GPT-powered insights**  
 - Deployed with **scheduled executions** for fresh analytics  
 
-🔗 **Repo:** [Add GitHub Link](#)
+🔗 **Repo:** [Add GitHub Link]([#](https://github.com/AbhinavRaj009/FINTECH))
 
 ---
 
