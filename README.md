@@ -1,140 +1,109 @@
-<!-- Header -->
+<p align="center">🚀 Abhinav Raj</p>
+<p align="center">Computer Science & AI/ML Engineer
 
-<div align="center">
-<h1 align="center">Hi there, I'm Abhinav Raj! 👋</h1>
-<h3 align="center">🚀 AI/ML Enthusiast | Full Stack Developer | Problem Solver</h3>
-</div>
+Building Intelligent • Scalable • Impactful Systems</p>
 
-<div align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/abhinav-raj-6535a224b/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="mailto:abhinavraj528@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-</div>
+<p align="center"> <img src="https://img.shields.io/badge/Location-Lucknow-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Role-Software%20%7C%20AI%20Engineer-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Open%20To-Full%20Time%20%7C%20Internships-orange?style=for-the-badge" /> </p> <p align="center"> <a href="#"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a> </p>
+🌟 About Me
 
-<!-- About Me -->
+I’m a CSE Graduate (AI/ML specialization) passionate about building smart, efficient, and user-centric solutions.
+My interests include AI engineering, full-stack development, and automation systems.
+I love transforming ideas into real products using modern technologies.
 
-👨‍💻 About Me
+🧰 Tech Stack
+Languages
 
-I am a final-year Computer Science student specializing in Artificial Intelligence & Machine Learning at Pranveer Singh Institute of Technology. I am passionate about crafting intelligent solutions that solve real-world problems, bridging the gap between modern web technologies and advanced AI models.
+Java • Python • C
 
-🔭 I’m currently working on Scalable Microservices & AI Integration
+Frontend
 
-🌱 I’m currently learning Advanced Deep Learning Architectures & Cloud Native Patterns
+React.js • HTML • CSS • JavaScript • TypeScript
 
-🏆 Achievements: HackerRank 5-star Coder, Finalist in Graph-E-Thon
+Backend
 
-💬 Ask me about React.js, Node.js, Python, and Computer Vision
+Node.js • Express.js • FastAPI • REST APIs
 
-<!-- Tech Stack -->
+Databases
 
-🛠️ Technical Skills
+MongoDB • PostgreSQL
 
-<div align="left">
-<strong>Languages:</strong>
+AI/ML
 
+TensorFlow • OpenCV • Mediapipe • Pandas • NumPy
 
+Tools
 
+Git • VS Code • Jupyter Notebook • Docker
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dflat-square%26logo%3Djava%26logoColor%3Dwhite" alt="Java" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dflat-square%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
-</div>
+📊 GitHub Activity & Widgets
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=tokyonight" width="48%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" width="40%"> </p>
 
+Replace YOURUSERNAME with your GitHub username.
 
+🚀 Featured Projects
+🔹 Brightness Control Using Hand Gestures
 
+Tech: OpenCV, Mediapipe, Python
 
-<div align="left">
-<strong>Web Development:</strong>
+Built a gesture-based brightness/volume controller using hand distance.
 
+Designed for accessibility: elderly & disabled friendly.
 
+🔗 Add GitHub Link Here
 
+🔹 Kube-Credential
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dflat-square%26logo%3Dreact%26logoColor%3Dblack" alt="React" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dflat-square%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-000000%3Fstyle%3Dflat-square%26logo%3Dexpress%26logoColor%3Dwhite" alt="Express" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dflat-square%26logo%3Dtypescript%26logoColor%3Dwhite" alt="TypeScript" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dflat-square%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/FastAPI-009688%3Fstyle%3Dflat-square%26logo%3Dfastapi%26logoColor%3Dwhite" alt="FastAPI" />
-</div>
+Tech: Node.js, React, Docker, Kubernetes
 
+Credential issuance & verification microservice.
 
+Identity generated from SHA-256 hashing.
 
+Built for scalability & microservice architecture.
 
-<div align="left">
-<strong>AI / ML & Data Science:</strong>
+🔗 Add GitHub Link Here
 
+🔹 FINTECH — Automated Market Insights System
 
+Tech: FastAPI, PostgreSQL, SQLAlchemy, Alpha Vantage API, GPT-4
 
+Automated market data ingestion & analysis pipeline.
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TensorFlow-FF6F00%3Fstyle%3Dflat-square%26logo%3Dtensorflow%26logoColor%3Dwhite" alt="TensorFlow" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenCV-5C3EE8%3Fstyle%3Dflat-square%26logo%3Dopencv%26logoColor%3Dwhite" alt="OpenCV" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dflat-square%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dflat-square%26logo%3Dnumpy%26logoColor%3Dwhite" alt="NumPy" />
-</div>
+Generates daily AI-powered insights via GPT-4.
 
+Fully deployed on Railway.app with scheduled execution.
 
+🔗 Add GitHub Link Here
 
+🏆 Achievements
 
-<div align="left">
-<strong>Tools & DevOps:</strong>
+⭐ 5-Star Coder — HackerRank
 
+🥈 Graph-E-Thon Finalist — AI healthcare innovation
 
+🎓 Deep Learning (Udemy)
 
+🎓 Machine Learning with Python (Udemy)
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dflat-square%26logo%3Dkubernetes%26logoColor%3Dwhite" alt="K8s" />
-</div>
-
-<!-- Projects Section -->
-
-🧩 Featured Projects
-
-Project
-
-Description
-
-Tech Stack
-
-Kube-Credential
-
-A microservice-based credential issuance and verification system. Uses SHA-256 hashing for stable unique IDs and JSON payloads.
-
-Node.js, React, Docker, K8s
-
-FinTech Pipeline
-
-Automated market data pipeline integrating GPT-4 for daily AI insights. Deployed with scheduled executions.
-
-FastAPI, PostgreSQL, Alpha Vantage
-
-Gesture Control
-
-Accessibility tool controlling system brightness and volume using hand gestures via computer vision.
-
-OpenCV, Mediapipe, Python
-
-<!-- Experience -->
+🤖 Infosys Summer Training Program — AI
 
 💼 Experience
+Web Developer Intern — Jamuna Foundation
 
-Web Developer Intern @ Jamuna Foundation
+Developed a MERN-based project management tool.
 
-Developed a community project management tool using the MERN stack to organize, monitor, and track initiative progress.
+Enabled more efficient community initiative tracking.
 
-AI/ML Intern @ Earth5R
+AI/ML Intern — Earth5R
 
-Researched AI/ML applications for sustainability, simplifying complex technical concepts for broader public awareness.
+Wrote research-based AI/ML articles for sustainability projects.
 
-<!-- Github Stats -->
+Simplified complex concepts for awareness & outreach.
 
-📊 GitHub Analytics
+🎓 Education
 
-<div align="center">
-<!-- Change "abhinavraj528" to your actual GitHub username if different -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dabhinavraj528%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue" height="180" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dabhinavraj528%26layout%3Dcompact%26theme%3Dradical" height="180" alt="languages graph" />
-</div>
+B.Tech — Computer Science & Engineering (AI/ML)
+Pranveer Singh Institute of Technology, Kanpur
+
+📬 Connect With Me
+<p align="left"> <a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a> <a href="mailto:abhinavraj528@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a> </p>
