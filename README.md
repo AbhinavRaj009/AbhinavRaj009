@@ -32,11 +32,12 @@
 
 ## 🧬 About Me
 
-I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building intelligent, data-driven systems — from **automation pipelines** and **APIs** to **ML-powered apps** and modern UIs.
+I’m a **Computer Science & Engineering (AI/ML)** graduate who loves building intelligent, data-driven systems — from **automation pipelines** and **APIs** to **ML-powered apps** and modern UIs. Enthusiast of clean architecture and complex algorithms. Ready to tackle your next engineering hurdle.
 
 - 💡 I enjoy blending **AI/ML**, **backend engineering**, and **clean UI/UX**
 - 🧠 Strong in **Python, Java, Data Structures, Algorithms**
 - 🧪 I like experimenting with tools, design, and architecture that scale
+- 💻 Building scalable solutions with Data Structures & Algorithms. Let's collaborate on complex problems.
 
 <!-- <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN4NDJ3YTRsczg5YnE2bHBtYXpqY3ZoeGs0bXc1OHF1amp2Y29oNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W2hyN6GryA5SVmKAXf/giphy.gif" width="400">
